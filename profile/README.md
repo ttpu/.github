@@ -8,7 +8,7 @@
 ---------------------------------------------------------------------------------------
 ## Existing Teams:
 
-- [IoT Intern 2024 - Team Repositories](https://github.com/orgs/ttpu/teams/iot-intern-2024)
+- [IoT Intern 2024 - Team Repositories](https://github.com/orgs/ttpu/teams/iot-intern-2024/repositories)
 ---------------------------------------------------------------------------------------
 ## Classrooms:
 
