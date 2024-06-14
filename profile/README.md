@@ -21,6 +21,6 @@
 - Offical [Youtube Channel](https://www.youtube.com/@TurinPolytechnicUniversity)
 - Official [Telegram Channel](https://t.me/polito_uz)
 - Contact person:
-              - _maksudjon.usmonov@polito.it_
-              - _jaloliddin.yusupov@polito.uz_
-              - _a.bobonazarov@polito.uz_
+              - _maksudjon.usmonov@polito.it_\
+              - _jaloliddin.yusupov@polito.uz_\
+              - _a.bobonazarov@polito.uz_\
