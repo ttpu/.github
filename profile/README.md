@@ -19,10 +19,10 @@
 - Official Website: [www.polito.uz](http://www.polito.uz)
 - Offical [Youtube Channel](https://www.youtube.com/@TurinPolytechnicUniversity)
 - Official [Telegram Channel](https://t.me/polito_uz)
-- Owner of the organization: maksudjon.usmonov@polito.it
+- Owner of the organization: _maksudjon.usmonov@polito.it_
 - Other admins:
-              - jaloliddin.yusupov@polito.uz
-              - a.bobonazarov@polito.uz
+              - _jaloliddin.yusupov@polito.uz_
+              - _a.bobonazarov@polito.uz_
 
 <!--
 
