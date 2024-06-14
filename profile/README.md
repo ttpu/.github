@@ -1,8 +1,9 @@
 ## Github page of Turin Polytechnic University in Tashkent (TTPU)
 
 ** Contact info:*
-- Official website: [www.polito.uz](http://www.polito.uz)
-- Offical [youtube channel](https://www.youtube.com/@TurinPolytechnicUniversity)
+- Official Website: [www.polito.uz](http://www.polito.uz)
+- Offical [Youtube Channel](https://www.youtube.com/@TurinPolytechnicUniversity)
+- Official [Telegram Channel](https://t.me/polito_uz)
 
 **Parts of the pages are still under development**
 
