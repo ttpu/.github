@@ -3,12 +3,12 @@
 ---------------------------------------------------------------------------------------
 ## Summary of Repositories
 
-- [IoT Internship 2024 - Project & Repos]()
+- [IoT Internship 2024 - Project & Repos](https://github.com/ttpu/IoTintern2024_PROJECTS)
 
 ---------------------------------------------------------------------------------------
-## Existing Teams:
+## Teams:
 
-- [IoT Intern 2024 - Team Repositories](https://github.com/orgs/ttpu/teams/iot-intern-2024/repositories)
+- [Team: IoT Intern 2024](https://github.com/orgs/ttpu/teams/iot-intern-2024/repositories)
 ---------------------------------------------------------------------------------------
 ## Classrooms:
 
