@@ -16,7 +16,7 @@
 - IoT Internship 2024 - Classroom
 
 ---------------------------------------------------------------------------------------
-### Contact info:
+## Contact info:
 - Official Website: [www.polito.uz](http://www.polito.uz)
 - Offical [Youtube Channel](https://www.youtube.com/@TurinPolytechnicUniversity)
 - Official [Telegram Channel](https://t.me/polito_uz)
