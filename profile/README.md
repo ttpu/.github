@@ -3,7 +3,7 @@
 ---------------------------------------------------------------------------------------
 ## Existing Teams:
 
-- IoT Internship 2024 (TTPU)
+- [IoT Intern 2024 - Team](https://github.com/orgs/ttpu/teams/iot-intern-2024)
 
 ---------------------------------------------------------------------------------------
 ## Summary of Repositories
