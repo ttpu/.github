@@ -5,7 +5,18 @@
 - Offical [Youtube Channel](https://www.youtube.com/@TurinPolytechnicUniversity)
 - Official [Telegram Channel](https://t.me/polito_uz)
 
-**Parts of the pages are still under development**
+## Existing Teams:
+
+- IoT Internship 2024 (TTPU)
+
+## Summary of Repositories
+
+- [IoT Internship 2024 - Project & Repos]()
+
+
+## Classrooms:
+
+- IoT Internship 2024 - Classroom
 
 
 <!--
