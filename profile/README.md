@@ -1,15 +1,14 @@
 # Github page of Turin Polytechnic University in Tashkent (TTPU)
 
 ---------------------------------------------------------------------------------------
-## Existing Teams:
-
-- [IoT Intern 2024 - Team](https://github.com/orgs/ttpu/teams/iot-intern-2024)
-
----------------------------------------------------------------------------------------
 ## Summary of Repositories
 
 - [IoT Internship 2024 - Project & Repos]()
 
+---------------------------------------------------------------------------------------
+## Existing Teams:
+
+- [IoT Intern 2024 - Team Repositories](https://github.com/orgs/ttpu/teams/iot-intern-2024)
 ---------------------------------------------------------------------------------------
 ## Classrooms:
 
