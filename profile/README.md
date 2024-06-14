@@ -1,4 +1,4 @@
-## Github page of Turin Polytechnic University in Tashkent (TTPU)
+# Github page of Turin Polytechnic University in Tashkent (TTPU)
 
 
 ## Existing Teams:
