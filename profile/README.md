@@ -1,9 +1,5 @@
 ## Github page of Turin Polytechnic University in Tashkent (TTPU)
 
-** Contact info:*
-- Official Website: [www.polito.uz](http://www.polito.uz)
-- Offical [Youtube Channel](https://www.youtube.com/@TurinPolytechnicUniversity)
-- Official [Telegram Channel](https://t.me/polito_uz)
 
 ## Existing Teams:
 
@@ -18,6 +14,15 @@
 
 - IoT Internship 2024 - Classroom
 
+
+## Contact info:
+- Official Website: [www.polito.uz](http://www.polito.uz)
+- Offical [Youtube Channel](https://www.youtube.com/@TurinPolytechnicUniversity)
+- Official [Telegram Channel](https://t.me/polito_uz)
+- Owner of the organization: maksudjon.usmonov@polito.it
+- Other admins:
+              - jaloliddin.yusupov@polito.uz
+              - a.bobonazarov@polito.uz
 
 <!--
 
