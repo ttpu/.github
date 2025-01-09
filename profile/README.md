@@ -4,6 +4,7 @@
 ## Summary of Repositories
 
 - [IoT Internship 2024 - Project & Repos](https://github.com/ttpu/IoTintern2024_PROJECTS)
+- [Software Project Management 2024 - Project & Repos](https://github.com/ttpu/spm2024_final_projects)
 
 ---------------------------------------------------------------------------------------
 ## Teams:
