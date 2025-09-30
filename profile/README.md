@@ -3,8 +3,8 @@
 ---------------------------------------------------------------------------------------
 ## Github Organization Pages within TTPU
 
-- [IoT Internship](https://github.com/ttpu-iot)
-- [CHIP TTPU](https://github.com/chipsttpu)
+- [IoT at TTPU](https://github.com/ttpu-iot)
+- [CHIP lab TTPU](https://github.com/chipsttpu)
 
 ---------------------------------------------------------------------------------------
 ## Summary of Repositories
