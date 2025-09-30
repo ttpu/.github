@@ -3,14 +3,14 @@
 ---------------------------------------------------------------------------------------
 ## Github Organization Pages within TTPU
 
-- [IoT Internship](https://github.com/IoT-Internship-TTPU)
+- [IoT Internship](https://github.com/ttpu-iot)
 - [CHIP TTPU](https://github.com/chipsttpu)
 
 ---------------------------------------------------------------------------------------
 ## Summary of Repositories
 
-- [IoT Internship 2025 - Project & Repos](https://github.com/IoT-Internship-TTPU/IoTintern2025_PROJECTS)
-- [IoT Internship 2024 - Project & Repos](https://github.com/IoT-Internship-TTPU/IoTintern2024_PROJECTS)
+- [IoT Internship 2025 - Project & Repos](https://github.com/ttpu-iot/IoTintern2025_PROJECTS)
+- [IoT Internship 2024 - Project & Repos](https://github.com/ttpu-iot/IoTintern2024_PROJECTS)
 - [Software Project Management 2024 - Project & Repos](https://github.com/ttpu/spm2024_final_projects)
 - [IoT 2024 course - Project & Repos](https://github.com/ttpu/iot24_finalprojects)
 
