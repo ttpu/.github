@@ -5,6 +5,7 @@
 
 - [IoT at TTPU](https://github.com/ttpu-iot)
 - [CHIP lab TTPU](https://github.com/chipsttpu)
+- [SPM at TTPU](https://github.com/ttpu-spm)
 
 ---------------------------------------------------------------------------------------
 ## Summary of Repositories
@@ -12,7 +13,7 @@
 - [IoT Internship 2025 - Project & Repos](https://github.com/ttpu-iot/IoTintern2025_PROJECTS)
 - [IoT Internship 2024 - Project & Repos](https://github.com/ttpu-iot/IoTintern2024_PROJECTS)
 - [Software Project Management 2024 - Project & Repos](https://github.com/ttpu-spm/spm2024_final_projects)
-- [IoT 2024 course - Project & Repos](https://github.com/ttpu/iot24_finalprojects)
+- [IoT 2024 course - Project & Repos](https://github.com/ttpu-iot/iot24_finalprojects)
 
 ---------------------------------------------------------------------------------------
 ## Teams:
